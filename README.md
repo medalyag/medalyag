@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @medalyag
 - 👀 I’m interested in progammation
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on exercises 
 - 📫 How to reach me agalackfach.91@gmail.com
 - 😄 Pronouns: ...
